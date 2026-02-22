@@ -1,7 +1,7 @@
 <h1>📚 LiterAlura</h1>
 
 <p>
-    Projeto desenvolvido em <strong>Java</strong> utilizando <strong>Spring Boot</strong>, <strong>JPA/Hibernate</strong> e
+    Projeto desenvolvido em <strong>Java</strong> utilizando <strong>Spring Boot</strong>, <strong>JPA</strong> e
     <strong>PostgreSQL</strong>, com o objetivo de consumir dados de uma API externa de livros,
     armazená-los em um banco de dados relacional e permitir consultas através de um menu interativo no console.
 </p>
